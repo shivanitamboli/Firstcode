@@ -1,0 +1,7 @@
+C:\Users\tambo\Desktop\Bridgelabz\shiv\bin\Debug\shiv.exe.config
+C:\Users\tambo\Desktop\Bridgelabz\shiv\bin\Debug\shiv.exe
+C:\Users\tambo\Desktop\Bridgelabz\shiv\bin\Debug\shiv.pdb
+C:\Users\tambo\Desktop\Bridgelabz\shiv\obj\Debug\shiv.csproj.AssemblyReference.cache
+C:\Users\tambo\Desktop\Bridgelabz\shiv\obj\Debug\shiv.csproj.CoreCompileInputs.cache
+C:\Users\tambo\Desktop\Bridgelabz\shiv\obj\Debug\shiv.exe
+C:\Users\tambo\Desktop\Bridgelabz\shiv\obj\Debug\shiv.pdb
